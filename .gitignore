@@ -1,3 +1,4 @@
 node_modules
 src/database/config
-volumenes/mysql
+volumenes
+package-lock.json
